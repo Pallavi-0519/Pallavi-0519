@@ -19,43 +19,39 @@ Open to collaboration and continuous learning
 - **Career Advisor (Machine Learning Project)**  
   ML-based career recommendation system using skills & interests  
 
-- 📊 **Data Analysis & Visualization Projects**  
+- **Data Analysis & Visualization Projects**  
   Using Python, Excel, and Power BI  
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - SQL (Advanced Queries & Optimization)  
 - Machine Learning & Deep Learning  
 - Model deployment using Flask & Streamlit  
 
 ---
 
-## 👯 Looking to Collaborate On
+## Looking to Collaborate On
 - Python & Data Science projects  
 - Machine Learning & Recommendation Systems  
-- Data Visualization (Power BI, Python)  
+- Data Visualization (Power BI, Python)
+- AI systems  
 
 ---
 
-## 📝 Writing
-- Articles on **Python & Data Science**  
-  👉 https://medium.com/@pallavimyla566  
+## Writing
+- Articles on **intriguing findings**  
+  https://medium.com/@pallavimyla566  
 
 ---
 
-## 💬 Ask Me About
-Data Science, Machine Learning basics, Python for data analysis
+## Contact
+**Email:** pallavimyla566@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/pallavi-m-1a0b9931a  
 
 ---
 
-## 📫 Contact
-📧 **Email:** pallavimyla566@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/pallavi-m-1a0b9931a  
-
----
-
-## 🌐 Connect With Me
+## Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/pallavi-m-1a0b9931a" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
@@ -75,7 +71,7 @@ Data Science, Machine Learning basics, Python for data analysis
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
