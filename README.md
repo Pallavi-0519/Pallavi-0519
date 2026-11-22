@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pallavi Myla</h1>
-<h3 align="center">📊 Data Science Enthusiast | Turning Data into Insights</h3>
+<h1 align="center">Hi, I'm Pallavi Myla</h1>
+<h3 align="center">Data Science Enthusiast | Turning Data into Insights</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pallavi-0519&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -7,16 +7,16 @@
 
 ---
 
-## 👩‍💻 About Me
-🎓 Computer Science undergraduate specializing in **Data Science**  
-📈 Hands-on experience with **Python, SQL, Machine Learning & Data Analytics**  
-🧠 Interested in solving real-world problems using **data-driven approaches**  
-🤝 Open to collaboration and continuous learning  
+## About Me
+Computer Science undergraduate specializing in **Data Science**  
+Hands-on experience with **Python, SQL, Machine Learning & Data Analytics**  
+Interested in solving real-world problems using **data-driven approaches**  
+Open to collaboration and continuous learning  
 
 ---
 
-## 🔭 Currently Working On
-- 🤖 **Career Advisor (Machine Learning Project)**  
+## Currently Working On
+- **Career Advisor (Machine Learning Project)**  
   ML-based career recommendation system using skills & interests  
 
 - 📊 **Data Analysis & Visualization Projects**  
