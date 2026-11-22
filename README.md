@@ -38,11 +38,6 @@
 
 ---
 
-## 🤝 Looking for Help With
-- Deploying Data Science projects (Flask / Streamlit / Cloud)
-
----
-
 ## 📝 Writing
 - Articles on **Python & Data Science**  
   👉 https://medium.com/@pallavimyla566  
